@@ -39,14 +39,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <a href="http://www.github.com/RyanHartadi06"><img src="https://github-readme-stats.vercel.app/api?username=mahendrayudha&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RyanHartadi06's GitHub stats" /></a>
+  <a href="http://www.github.com/RyanHartadi06"><img src="https://github-readme-stats.vercel.app/api?username=RyanHartadi06&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RyanHartadi06's GitHub stats" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/RyanHartadi06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrayudha&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/RyanHartadi06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanHartadi06&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 <p align="center">
-  <a href="http://www.github.com/RyanHartadi06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahendrayudha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/RyanHartadi06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanHartadi06&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 <p align="center">
-  <a href="http://www.github.com/RyanHartadi06"><img src="https://activity-graph.herokuapp.com/graph?username=mahendrayudha&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/RyanHartadi06"><img src="https://activity-graph.herokuapp.com/graph?username=RyanHartadi06&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
