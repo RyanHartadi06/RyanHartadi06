@@ -12,7 +12,7 @@
 - 👨‍💻  I’m currently learning Go, NextJS, Vite, NestJS
 - ✉️  You can contact me at [ryanhartadi999@gmail.com](mailto:ryanhartadi999@gmail.com)
 - 🌐  All of my projects are available at [ryan.devliffe-team.com](ryan.devliffe-team.com)
-- "Do not give up at any time, because when you give up everything will be lost"
+- "Don't give up at any time, because when you give up everything will be lost"
 
 ### 🛠 &nbsp;Tech Stack
 ### Skills
