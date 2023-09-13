@@ -7,6 +7,23 @@
   <img src="https://img.shields.io/github/followers/RyanHartadi06?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />
 </a>
 
+```javascript
+import SoftwareDeveloper from 'ryanhartadi';
+import { Languages, Frameworks } from 'ryanhartadi/skills';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Ryan Hartadi';
+  title    = 'Software Developer';
+  location = 'Jember, ID';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'TypeScript', 'PHP', ...Languages];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['Vue', 'React', 'Next.js', 'Laravel', 'Nest.js', ...Frameworks];
+}
+
+```
 ### 👨🏻‍💻 &nbsp;About Me
 - 🌍  I'm based in East Java, Indonesia
 - 👨‍💻  I’m currently learning Go, NextJS, Vite, NestJS
