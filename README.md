@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ryan Hartadi</h1>
 <h3 align="center">I'm Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrayudha&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrayudha" /> </p>
-
 <a href="https://www.github.com/RyanHartadi06" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/RyanHartadi06?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />
 </a>
