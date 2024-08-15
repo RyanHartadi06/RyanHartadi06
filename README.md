@@ -16,9 +16,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'PHP', ...Languages];
+  languages  = ['JavaScript', 'TypeScript', 'PHP', 'Go', 'Python', ...Languages];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['Vue', 'React', 'Next.js', 'Laravel', 'Nest.js', ...Frameworks];
+  frameworks = ['Vue', 'React', 'Next.js', 'Laravel', 'Nest.js', 'Flask', ...Frameworks];
 }
 
 ```
@@ -50,6 +50,7 @@ class Skills extends SoftwareDeveloper {
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://go.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://go.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
